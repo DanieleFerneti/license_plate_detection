@@ -1,0 +1,6 @@
+path: /content/drive/MyDrive/IARTS/dataset/images_yolo/yolo_high_20
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: license-plate

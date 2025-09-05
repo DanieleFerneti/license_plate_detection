@@ -1,0 +1,6 @@
+path: /content/drive/MyDrive/IARTS/dataset/images_yolo/yolo_fuzzy_a0.2_b0.4_c0.7_d0.9
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: license-plate
