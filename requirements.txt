@@ -1,0 +1,23 @@
+# Computer vision / elaborazione immagini
+opencv-python-headless
+numpy
+pillow
+scikit-image
+scikit-learn
+
+# YOLOv8
+ultralytics
+
+# Annotazioni XML VOC
+lxml
+
+# OCR
+pytesseract
+
+# Explainability
+lime
+grad-cam
+
+# Extra utili
+matplotlib
+
