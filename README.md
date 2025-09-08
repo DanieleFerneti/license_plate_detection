@@ -74,7 +74,7 @@ The pipeline is divided into the following steps:
 | AB123CD    | A8I23OD             | AB123CD ✅      |
 
 ### LIME Explanations
-![LIME Examples](images/example_lime.png)
+![LIME Examples](results/lime/lime_yolo_high_20/Cars98_1_lime.png)
 
 ---
 
