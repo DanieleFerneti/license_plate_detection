@@ -84,3 +84,11 @@ The pipeline is divided into the following steps:
    ```bash
    git clone https://github.com/username/repo.git
    cd repo
+   
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   
+3. Open and run the notebook:
+   jupyter notebook targa_detection.ipynb
+
