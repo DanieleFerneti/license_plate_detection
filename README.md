@@ -90,5 +90,6 @@ The pipeline is divided into the following steps:
    pip install -r requirements.txt
    
 3. Open and run the notebook:
+   ```bash
    jupyter notebook targa_detection.ipynb
 
